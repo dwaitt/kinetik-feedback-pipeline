@@ -52,7 +52,7 @@ bdr-feedback-digest/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/bdr-feedback-digest.git
+git clone https://github.com/dwaitt/bdr-feedback-digest.git
 cd bdr-feedback-digest
 
 # 2. Install dependencies
